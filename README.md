@@ -1,4 +1,4 @@
-# ai-platform
+# antd-template
 
 ## Project setup
 ```
